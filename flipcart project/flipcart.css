@@ -1,0 +1,245 @@
+#header {
+  height: 50px;
+  width: 100%;
+  background: lightblue;
+  border-radius: 20px;
+  box-shadow: 10px 10px 10px 0.02px lightblue;
+}
+#placeholder {
+  width: 40%;
+  height: 30px;
+  font-size: 15px;
+  border-radius: 20px;
+  background: lightblue;
+  border-width: 3px;
+  border-color: lightblue;
+}
+#searchbar {
+  margin-top: -40px;
+  border-color: lightblue;
+  margin-left: 25%;
+}
+#image {
+  height: 35px;
+  cursor: pointer;
+}
+#imagediv {
+  margin-top: -30px;
+  margin-left: 100px;
+}
+#search3 {
+  height: 30px;
+  display: flex;
+  margin-top: -35px;
+  margin-left: 790px;
+}
+#cart {
+  height: 70px;
+  margin-top: -10px;
+  margin-left: 80%;
+  cursor: pointer;
+}
+#service {
+  height: 50px;
+  float: right;
+  margin-right: 120px;
+  cursor: pointer;
+}
+#profile {
+  height: 40px;
+  float: right;
+  margin-top: -55px;
+  margin-right: 30px;
+  cursor: pointer;
+}
+#login {
+  height: 35px;
+  width: 120px;
+  font-size: 15px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  border-radius: 20px;
+  background: lightblue;
+  border-width: 2px;
+  border-color: lightblue;
+  float: right;
+  margin-top: -55px;
+  margin-right: 500px;
+}
+#more {
+  height: 30px;
+  border-radius: 20px;
+  background: lightblue;
+  border-width: 2px;
+  border-color: lightblue;
+  box-shadow: 1px 1px 1px 0.1px;
+  float: right;
+  margin-top: -50px;
+  margin-right: 400px;
+}
+#div2 {
+  margin-top: 10px;
+  height: 150px;
+  width: 100%;
+  background: white;
+}
+#a {
+  margin-top: -10px;
+  margin-left: 25px;
+  font-size: 20px;
+}
+#bike {
+  float: left;
+  margin-left: 200px;
+  margin-top: -160px;
+  cursor: pointer;
+}
+#aa {
+  margin-left: 200px;
+  margin-top: -40px;
+  font-size: 20px;
+}
+#phone {
+  float: left;
+  margin-left: 400px;
+  margin-top: -160px;
+  cursor: pointer;
+}
+#aaa {
+  margin-left: 430px;
+  margin-top: -40px;
+  font-size: 20px;
+}
+#laptop {
+  float: left;
+  margin-left: 600px;
+  margin-top: -160px;
+  cursor: pointer;
+}
+#aaaa {
+  margin-left: 610px;
+  margin-top: -45px;
+  font-size: 20px;
+}
+#surfexcel {
+  margin-left: 800px;
+  float: left;
+  margin-top: -160px;
+  cursor: pointer;
+}
+#aaaaa {
+  float: right;
+  margin-right: 620px;
+  font-size: 20px;
+  margin-top: -45px;
+}
+#Travel {
+  float: right;
+  margin-top: -170px;
+  margin-right: 400px;
+  cursor: pointer;
+}
+#aaaaaa {
+  font-size: 20px;
+  float: right;
+  margin-right: 450px;
+  margin-top: -45px;
+}
+#BeautyToysMore {
+  float: right;
+  margin-top: -170px;
+  margin-right: 200px;
+  height: 120px;
+  cursor: pointer;
+}
+#aaaaaaaa {
+  font-size: 20px;
+  float: right;
+  margin-right: 170px;
+  margin-top: -45px;
+}
+#offer {
+  float: right;
+  margin-top: -160px;
+  cursor: pointer;
+}
+#aaaaaaaaaa {
+  font-size: 20px;
+  float: right;
+  margin-top: -45px;
+  margin-right: 20px;
+}
+#blower {
+  height: 200px;
+  margin-top: 50px;
+  margin-left: 100px;
+  cursor: pointer;
+  transition: transform 0.5s;
+}
+#blower:hover {
+  transform: scale(1.25);
+}
+#div3 {
+  height: 400px;
+  width: 100%;
+  background: rgb(255, 255, 255);
+}
+#powerbank {
+  height: 290px;
+  margin-left: 100px;
+  margin-top: 40px;
+  cursor: pointer;
+  transition: transform 0.5s;
+}
+#powerbank:hover {
+  transform: scale(1.25);
+}
+
+#printer {
+  height: 180px;
+  margin-top: 50px;
+  margin-left: 100px;
+  cursor: pointer;
+  transition: transform 0.5s;
+}
+#printer:hover {
+  transform: scale(1.25);
+}
+#camera {
+  height: 170px;
+  margin-top: 50px;
+  margin-left: 100px;
+  cursor: pointer;
+  transition: transform 0.5s;
+}
+#camera:hover {
+  transform: scale(1.25);
+}
+#z {
+  font-size: 20px;
+  margin-top: -10px;
+  margin-left: 100px;
+  cursor: pointer;
+}
+#zz {
+  font-size: 20px;
+  margin-left: 450px;
+  margin-top: -40px;
+}
+#zzz {
+  font-size: 20px;
+  margin-left: 850px;
+  margin-top: -50px;
+}
+#zzzz {
+  font-size: 20px;
+  margin-left: 1150px;
+  margin-top: -45px;
+}
+#qqQQ {
+  cursor: pointer;
+}
+#all{
+  background: whitesmoke;
+  overflow: hidden;
+  
+}
